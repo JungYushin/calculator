@@ -9,7 +9,7 @@
 #define true 1
 #define false 0
 
-#define PI 3.14159265358979
+#define PI 3.1415926535897
 
 #define MAXTOKENLENGTH 512
 #define MAXPRECISION 20
